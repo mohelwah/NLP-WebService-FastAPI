@@ -4,7 +4,12 @@ this is scaffold template for python
  - Makefile
  - requirement.txt
  - virtial enviroment: python -m venv ~/.scaffold
- - activate venv envi: source ~/.scaffold/bin/activate
+ - vim ~/.bashrc
+ - A Append text to the end of current line
+ - esq to end inster mode
+ - :wq to quite with save
+ - activate venv envi: source ~/.venv/bin/activate
+ - 
  - hello.py file
  - test_hello.py file 
  
